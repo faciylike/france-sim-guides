@@ -56,3 +56,10 @@ layout: default
 　　最后聊句实在的，选择哪种方式完全取决于你的行程。只是玩一周？一张预付费卡或者eSim足矣。要待上好几个月？直接冲进Free或Orange的门店，办个月付套餐，这才是最经济实惠的方案。
 
 　　希望这份指南能让你在法国的数字生活，从一开始就顺畅无比。Bon voyage et bonne connexion!（旅途愉快，网络畅通！）
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [France eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/france-data-plans)
